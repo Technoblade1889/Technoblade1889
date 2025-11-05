@@ -2,6 +2,7 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 ## Here is Technoblade！：）
+## I enjoy watching anime, playing sports, and playing the violin, as well as the paintings by Van Gogh and Monet.
 
 ### **社交主页：**
 
@@ -10,9 +11,4 @@
 
 
 
-
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
 
